@@ -1,0 +1,14 @@
+h1{
+    color: violet;
+    font-size: 30px;
+}
+
+p{
+    color: green;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
